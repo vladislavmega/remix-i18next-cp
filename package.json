@@ -1,7 +1,7 @@
 {
-  "name": "remix-i18next",
+  "name": "remix-i18next-cp",
   "version": "5.5.0",
-  "description": "The easiest way to translate your Remix apps",
+  "description": "FORK OF remix-i18next",
   "license": "MIT",
   "sideEffects": false,
   "browser": {
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sergiodxa/remix-i18next.git"
+    "url": "git+https://github.com/vladislavmega/remix-i18next-cp"
   },
   "keywords": [
     "remix",
